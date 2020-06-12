@@ -11,3 +11,4 @@ The code here is to create a small application :
 
 
 The detail procedure can be viewed in my linkdin:
+https://www.linkedin.com/pulse/task-1-terraform-puvvada-beashaj
